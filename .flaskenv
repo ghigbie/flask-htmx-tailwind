@@ -1,0 +1,1 @@
+FLASK_APP=src.flask_rye_htmx_tailwind
